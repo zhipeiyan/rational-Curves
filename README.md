@@ -1,5 +1,5 @@
 # Circle Reproduction with Interpolatory Curves at Local Maximal Curvature Points
-Implementation of rational kappa-Curves of 2019 CAGD paper
+Implementation of rational &kappa;-Curves of 2019 CAGD paper
 
 https://zhipeiyan.github.io/projects/ratkappa/ratk.pdf
 
